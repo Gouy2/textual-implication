@@ -1,0 +1,60 @@
+Epoch [10/300], Average Loss: 0.6565, Average Accuracy: 57.84%
+Validation - Accuracy: 53.45%
+Epoch [20/300], Average Loss: 0.6086, Average Accuracy: 59.66%
+Validation - Accuracy: 50.00%
+Epoch [30/300], Average Loss: 0.5573, Average Accuracy: 63.48%
+Validation - Accuracy: 50.00%
+Epoch [40/300], Average Loss: 0.5274, Average Accuracy: 70.75%
+Validation - Accuracy: 54.31%
+Epoch [50/300], Average Loss: 0.4958, Average Accuracy: 74.19%
+Validation - Accuracy: 57.76%
+Epoch [60/300], Average Loss: 0.4145, Average Accuracy: 80.31%
+Validation - Accuracy: 62.07%
+Epoch [70/300], Average Loss: 0.3405, Average Accuracy: 82.89%
+Validation - Accuracy: 69.83%
+Epoch [80/300], Average Loss: 0.3135, Average Accuracy: 85.28%
+Validation - Accuracy: 71.55%
+Epoch [90/300], Average Loss: 0.2360, Average Accuracy: 88.53%
+Validation - Accuracy: 73.28%
+Epoch [100/300], Average Loss: 0.2260, Average Accuracy: 88.62%
+Validation - Accuracy: 75.86%
+Epoch [110/300], Average Loss: 0.1993, Average Accuracy: 90.54%
+Validation - Accuracy: 76.72%
+Epoch [120/300], Average Loss: 0.1949, Average Accuracy: 90.34%
+Validation - Accuracy: 68.97%
+Epoch [130/300], Average Loss: 0.2092, Average Accuracy: 90.82%
+Validation - Accuracy: 74.14%
+Epoch [140/300], Average Loss: 0.1558, Average Accuracy: 91.97%
+Validation - Accuracy: 71.55%
+Epoch [150/300], Average Loss: 0.1466, Average Accuracy: 92.35%
+Validation - Accuracy: 73.28%
+Epoch [160/300], Average Loss: 0.1346, Average Accuracy: 93.40%
+Validation - Accuracy: 71.55%
+Epoch [170/300], Average Loss: 0.1473, Average Accuracy: 93.88%
+Validation - Accuracy: 72.41%
+Epoch [180/300], Average Loss: 0.1217, Average Accuracy: 94.17%
+Validation - Accuracy: 71.55%
+Epoch [190/300], Average Loss: 0.1263, Average Accuracy: 94.17%
+Validation - Accuracy: 72.41%
+Epoch [200/300], Average Loss: 0.1086, Average Accuracy: 95.41%
+Validation - Accuracy: 73.28%
+Epoch [210/300], Average Loss: 0.1017, Average Accuracy: 95.41%
+Validation - Accuracy: 75.86%
+Epoch [220/300], Average Loss: 0.1199, Average Accuracy: 95.22%
+Validation - Accuracy: 70.69%
+Epoch [230/300], Average Loss: 0.0985, Average Accuracy: 95.79%
+Validation - Accuracy: 72.41%
+Epoch [240/300], Average Loss: 0.0679, Average Accuracy: 97.42%
+Validation - Accuracy: 74.14%
+Epoch [250/300], Average Loss: 0.0791, Average Accuracy: 96.18%
+Validation - Accuracy: 71.55%
+Epoch [260/300], Average Loss: 0.0840, Average Accuracy: 96.94%
+Validation - Accuracy: 72.41%
+Epoch [270/300], Average Loss: 0.0615, Average Accuracy: 97.51%
+Validation - Accuracy: 72.41%
+Epoch [280/300], Average Loss: 0.0657, Average Accuracy: 97.51%
+Validation - Accuracy: 74.14%
+Epoch [290/300], Average Loss: 0.0512, Average Accuracy: 97.61%
+Validation - Accuracy: 72.41%
+Epoch [300/300], Average Loss: 0.0489, Average Accuracy: 98.28%
+Validation - Accuracy: 71.55%

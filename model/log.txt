@@ -1,0 +1,7 @@
+Epoch [1/100], Training Loss: 0.6994, Training Accuracy: 48.85%, Validation Accuracy: 47.41%
+Epoch [2/100], Training Loss: 0.6905, Training Accuracy: 51.15%, Validation Accuracy: 55.17%
+Epoch [3/100], Training Loss: 0.6890, Training Accuracy: 51.82%, Validation Accuracy: 55.17%
+Epoch [4/100], Training Loss: 0.6875, Training Accuracy: 50.00%, Validation Accuracy: 47.41%
+Epoch [5/100], Training Loss: 0.6872, Training Accuracy: 50.19%, Validation Accuracy: 55.17%
+Epoch [6/100], Training Loss: 0.6866, Training Accuracy: 51.91%, Validation Accuracy: 55.17%
+Epoch [7/100], Training Loss: 0.6845, Training Accuracy: 53.06%, Validation Accuracy: 55.17%

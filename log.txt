@@ -1,0 +1,200 @@
+Epoch [1/100], Average Loss: 0.6986, Average Accuracy: 49.81%
+Validation - Accuracy: 55.17%
+Epoch [2/100], Average Loss: 0.6881, Average Accuracy: 51.15%
+Validation - Accuracy: 48.28%
+Epoch [3/100], Average Loss: 0.6843, Average Accuracy: 54.78%
+Validation - Accuracy: 51.72%
+Epoch [4/100], Average Loss: 0.6894, Average Accuracy: 54.30%
+Validation - Accuracy: 48.28%
+Epoch [5/100], Average Loss: 0.6906, Average Accuracy: 52.20%
+Validation - Accuracy: 54.31%
+Epoch [6/100], Average Loss: 0.6623, Average Accuracy: 57.36%
+Validation - Accuracy: 51.72%
+Epoch [7/100], Average Loss: 0.6441, Average Accuracy: 61.57%
+Validation - Accuracy: 51.72%
+Epoch [8/100], Average Loss: 0.6260, Average Accuracy: 61.57%
+Validation - Accuracy: 49.14%
+Epoch [9/100], Average Loss: 0.6108, Average Accuracy: 63.19%
+Validation - Accuracy: 45.69%
+Epoch [10/100], Average Loss: 0.6053, Average Accuracy: 62.91%
+Validation - Accuracy: 46.55%
+Epoch [11/100], Average Loss: 0.6018, Average Accuracy: 62.91%
+Validation - Accuracy: 47.41%
+Epoch [12/100], Average Loss: 0.5911, Average Accuracy: 62.33%
+Validation - Accuracy: 43.97%
+Epoch [13/100], Average Loss: 0.5900, Average Accuracy: 60.80%
+Validation - Accuracy: 45.69%
+Epoch [14/100], Average Loss: 0.5785, Average Accuracy: 63.10%
+Validation - Accuracy: 45.69%
+Epoch [15/100], Average Loss: 0.5854, Average Accuracy: 62.14%
+Validation - Accuracy: 47.41%
+Epoch [16/100], Average Loss: 0.5865, Average Accuracy: 61.28%
+Validation - Accuracy: 46.55%
+Epoch [17/100], Average Loss: 0.5737, Average Accuracy: 63.67%
+Validation - Accuracy: 49.14%
+Epoch [18/100], Average Loss: 0.5784, Average Accuracy: 66.06%
+Validation - Accuracy: 49.14%
+Epoch [19/100], Average Loss: 0.5774, Average Accuracy: 65.39%
+Validation - Accuracy: 50.86%
+Epoch [20/100], Average Loss: 0.5745, Average Accuracy: 65.87%
+Validation - Accuracy: 48.28%
+Epoch [21/100], Average Loss: 0.5654, Average Accuracy: 67.50%
+Validation - Accuracy: 47.41%
+Epoch [22/100], Average Loss: 0.5476, Average Accuracy: 69.12%
+Validation - Accuracy: 54.31%
+Epoch [23/100], Average Loss: 0.5514, Average Accuracy: 70.84%
+Validation - Accuracy: 50.86%
+Epoch [24/100], Average Loss: 0.5422, Average Accuracy: 70.17%
+Validation - Accuracy: 50.86%
+Epoch [25/100], Average Loss: 0.5412, Average Accuracy: 71.32%
+Validation - Accuracy: 50.00%
+Epoch [26/100], Average Loss: 0.5323, Average Accuracy: 70.94%
+Validation - Accuracy: 47.41%
+Epoch [27/100], Average Loss: 0.5184, Average Accuracy: 71.22%
+Validation - Accuracy: 51.72%
+Epoch [28/100], Average Loss: 0.5145, Average Accuracy: 71.32%
+Validation - Accuracy: 50.00%
+Epoch [29/100], Average Loss: 0.5046, Average Accuracy: 72.66%
+Validation - Accuracy: 52.59%
+Epoch [30/100], Average Loss: 0.4976, Average Accuracy: 74.09%
+Validation - Accuracy: 54.31%
+Epoch [31/100], Average Loss: 0.4912, Average Accuracy: 75.33%
+Validation - Accuracy: 54.31%
+Epoch [32/100], Average Loss: 0.4769, Average Accuracy: 74.76%
+Validation - Accuracy: 55.17%
+Epoch [33/100], Average Loss: 0.4855, Average Accuracy: 77.63%
+Validation - Accuracy: 56.90%
+Epoch [34/100], Average Loss: 0.4632, Average Accuracy: 78.01%
+Validation - Accuracy: 59.48%
+Epoch [35/100], Average Loss: 0.4528, Average Accuracy: 79.16%
+Validation - Accuracy: 57.76%
+Epoch [36/100], Average Loss: 0.4527, Average Accuracy: 78.78%
+Validation - Accuracy: 56.03%
+Epoch [37/100], Average Loss: 0.4457, Average Accuracy: 79.16%
+Validation - Accuracy: 56.90%
+Epoch [38/100], Average Loss: 0.4190, Average Accuracy: 80.69%
+Validation - Accuracy: 60.34%
+Epoch [39/100], Average Loss: 0.3997, Average Accuracy: 81.17%
+Validation - Accuracy: 55.17%
+Epoch [40/100], Average Loss: 0.3953, Average Accuracy: 81.07%
+Validation - Accuracy: 50.86%
+Epoch [41/100], Average Loss: 0.4155, Average Accuracy: 81.45%
+Validation - Accuracy: 55.17%
+Epoch [42/100], Average Loss: 0.4116, Average Accuracy: 81.74%
+Validation - Accuracy: 53.45%
+Epoch [43/100], Average Loss: 0.3801, Average Accuracy: 82.41%
+Validation - Accuracy: 52.59%
+Epoch [44/100], Average Loss: 0.3649, Average Accuracy: 82.79%
+Validation - Accuracy: 56.90%
+Epoch [45/100], Average Loss: 0.3462, Average Accuracy: 83.17%
+Validation - Accuracy: 59.48%
+Epoch [46/100], Average Loss: 0.3415, Average Accuracy: 83.84%
+Validation - Accuracy: 56.03%
+Epoch [47/100], Average Loss: 0.3338, Average Accuracy: 84.61%
+Validation - Accuracy: 56.03%
+Epoch [48/100], Average Loss: 0.3284, Average Accuracy: 84.13%
+Validation - Accuracy: 59.48%
+Epoch [49/100], Average Loss: 0.3602, Average Accuracy: 83.75%
+Validation - Accuracy: 62.07%
+Epoch [50/100], Average Loss: 0.3347, Average Accuracy: 84.03%
+Validation - Accuracy: 56.03%
+Epoch [51/100], Average Loss: 0.3274, Average Accuracy: 84.23%
+Validation - Accuracy: 62.93%
+Epoch [52/100], Average Loss: 0.3277, Average Accuracy: 83.94%
+Validation - Accuracy: 57.76%
+Epoch [53/100], Average Loss: 0.3453, Average Accuracy: 83.46%
+Validation - Accuracy: 56.90%
+Epoch [54/100], Average Loss: 0.3387, Average Accuracy: 83.37%
+Validation - Accuracy: 62.07%
+Epoch [55/100], Average Loss: 0.3224, Average Accuracy: 84.13%
+Validation - Accuracy: 59.48%
+Epoch [56/100], Average Loss: 0.3137, Average Accuracy: 85.28%
+Validation - Accuracy: 57.76%
+Epoch [57/100], Average Loss: 0.3031, Average Accuracy: 85.37%
+Validation - Accuracy: 56.03%
+Epoch [58/100], Average Loss: 0.2956, Average Accuracy: 86.04%
+Validation - Accuracy: 58.62%
+Epoch [59/100], Average Loss: 0.2923, Average Accuracy: 86.52%
+Validation - Accuracy: 57.76%
+Epoch [60/100], Average Loss: 0.2907, Average Accuracy: 85.85%
+Validation - Accuracy: 57.76%
+Epoch [61/100], Average Loss: 0.2998, Average Accuracy: 85.56%
+Validation - Accuracy: 62.07%
+Epoch [62/100], Average Loss: 0.3042, Average Accuracy: 84.61%
+Validation - Accuracy: 55.17%
+Epoch [63/100], Average Loss: 0.3023, Average Accuracy: 86.04%
+Validation - Accuracy: 62.07%
+Epoch [64/100], Average Loss: 0.2871, Average Accuracy: 85.66%
+Validation - Accuracy: 58.62%
+Epoch [65/100], Average Loss: 0.2821, Average Accuracy: 86.33%
+Validation - Accuracy: 53.45%
+Epoch [66/100], Average Loss: 0.2742, Average Accuracy: 87.86%
+Validation - Accuracy: 56.03%
+Epoch [67/100], Average Loss: 0.2625, Average Accuracy: 87.57%
+Validation - Accuracy: 54.31%
+Epoch [68/100], Average Loss: 0.2698, Average Accuracy: 86.14%
+Validation - Accuracy: 58.62%
+Epoch [69/100], Average Loss: 0.2557, Average Accuracy: 87.76%
+Validation - Accuracy: 54.31%
+Epoch [70/100], Average Loss: 0.2587, Average Accuracy: 87.57%
+Validation - Accuracy: 52.59%
+Epoch [71/100], Average Loss: 0.2492, Average Accuracy: 87.57%
+Validation - Accuracy: 57.76%
+Epoch [72/100], Average Loss: 0.2599, Average Accuracy: 88.15%
+Validation - Accuracy: 61.21%
+Epoch [73/100], Average Loss: 0.2485, Average Accuracy: 87.76%
+Validation - Accuracy: 55.17%
+Epoch [74/100], Average Loss: 0.2374, Average Accuracy: 88.15%
+Validation - Accuracy: 57.76%
+Epoch [75/100], Average Loss: 0.2438, Average Accuracy: 88.05%
+Validation - Accuracy: 55.17%
+Epoch [76/100], Average Loss: 0.2335, Average Accuracy: 88.81%
+Validation - Accuracy: 54.31%
+Epoch [77/100], Average Loss: 0.2266, Average Accuracy: 89.39%
+Validation - Accuracy: 58.62%
+Epoch [78/100], Average Loss: 0.2262, Average Accuracy: 89.01%
+Validation - Accuracy: 59.48%
+Epoch [79/100], Average Loss: 0.2235, Average Accuracy: 89.10%
+Validation - Accuracy: 62.07%
+Epoch [80/100], Average Loss: 0.2140, Average Accuracy: 89.39%
+Validation - Accuracy: 63.79%
+Epoch [81/100], Average Loss: 0.2147, Average Accuracy: 89.67%
+Validation - Accuracy: 59.48%
+Epoch [82/100], Average Loss: 0.2166, Average Accuracy: 88.72%
+Validation - Accuracy: 62.93%
+Epoch [83/100], Average Loss: 0.2145, Average Accuracy: 89.48%
+Validation - Accuracy: 61.21%
+Epoch [84/100], Average Loss: 0.2102, Average Accuracy: 89.48%
+Validation - Accuracy: 60.34%
+Epoch [85/100], Average Loss: 0.2147, Average Accuracy: 89.96%
+Validation - Accuracy: 62.93%
+Epoch [86/100], Average Loss: 0.2010, Average Accuracy: 90.25%
+Validation - Accuracy: 62.07%
+Epoch [87/100], Average Loss: 0.1929, Average Accuracy: 90.06%
+Validation - Accuracy: 67.24%
+Epoch [88/100], Average Loss: 0.1849, Average Accuracy: 90.73%
+Validation - Accuracy: 66.38%
+Epoch [89/100], Average Loss: 0.2098, Average Accuracy: 90.06%
+Validation - Accuracy: 62.93%
+Epoch [90/100], Average Loss: 0.2075, Average Accuracy: 89.10%
+Validation - Accuracy: 61.21%
+Epoch [91/100], Average Loss: 0.2127, Average Accuracy: 89.39%
+Validation - Accuracy: 61.21%
+Epoch [92/100], Average Loss: 0.2870, Average Accuracy: 87.86%
+Validation - Accuracy: 58.62%
+Epoch [93/100], Average Loss: 0.2388, Average Accuracy: 88.24%
+Validation - Accuracy: 66.38%
+Epoch [94/100], Average Loss: 0.2179, Average Accuracy: 89.39%
+Validation - Accuracy: 64.66%
+Epoch [95/100], Average Loss: 0.2039, Average Accuracy: 90.06%
+Validation - Accuracy: 62.93%
+Epoch [96/100], Average Loss: 0.1924, Average Accuracy: 90.73%
+Validation - Accuracy: 62.93%
+Epoch [97/100], Average Loss: 0.1905, Average Accuracy: 91.87%
+Validation - Accuracy: 62.93%
+Epoch [98/100], Average Loss: 0.1909, Average Accuracy: 91.59%
+Validation - Accuracy: 62.93%
+Epoch [99/100], Average Loss: 0.1881, Average Accuracy: 91.87%
+Validation - Accuracy: 62.07%
+Epoch [100/100], Average Loss: 0.1862, Average Accuracy: 91.59%
+Validation - Accuracy: 62.93%
